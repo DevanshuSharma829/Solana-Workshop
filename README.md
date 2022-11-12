@@ -1,1 +1,1 @@
-# TestingJS
+# Solana Workshop
